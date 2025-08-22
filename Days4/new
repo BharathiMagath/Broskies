@@ -1,0 +1,35 @@
+# Employee Sorting with Comparator in Java
+
+## 📌 Objective
+This project demonstrates how to use **Java Collections** and implement sorting with **Comparator**.  
+You will learn how to sort objects dynamically by different fields such as **salary** (descending) and **name** (ascending).
+
+---
+
+## 🛠 Tools Required
+- Java (JDK 8 or above)
+- IDE (Eclipse, IntelliJ, or VS Code)
+
+---
+
+## 📚 Key Concepts
+- Working with `String` class
+- Using loops and conditional statements
+- Implementing `toString()`
+- Using `ArrayList`
+- Sorting with `Comparator` and `Collections.sort()`
+- Lambda expressions for sorting
+
+---
+
+## 🚀 Steps Implemented
+1. Create `Employee` class with `name`, `age`, and `salary`.
+2. Add constructor and `toString()` method for easy display.
+3. Store multiple employees in an `ArrayList`.
+4. Sort employees by **salary (descending)** using `Comparator`.
+5. Sort employees by **name (ascending)** using another `Comparator`.
+6. Print both sorted lists.
+
+---
+
+## 📂 Project Structure
